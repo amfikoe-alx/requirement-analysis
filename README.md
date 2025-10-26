@@ -24,4 +24,12 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
     Observation: Observing end-users in their working environment to understand their needs.
     Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
 
-  
+
+# Types of Requirements
+  Functional Requirements: Are product features that developers must implement to enable the user to achieve their goals. They define the basic system behavior under specific conditions.
+  Ensure each functionality aligns with user stories.
+    E.g., "the system must allow the user to submit feedback through a contact form in the app"
+    
+  Non-Functional Requirements: System qualities are those that guide the design of the solution and often serve as constraints across the relevant backlogs.
+  Document performance, security, scalability, usability, and reliability requirements.
+    E.g., "when the submit button is pressed, the confirmation screen must load within seconds"
