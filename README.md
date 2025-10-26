@@ -26,10 +26,18 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
 
 
 # Types of Requirements
-  Functional Requirements: Are product features that developers must implement to enable the user to achieve their goals. They define the basic system behavior under specific conditions.
-  Ensure each functionality aligns with user stories.
-    E.g., "the system must allow the user to submit feedback through a contact form in the app"
+  Functional Requirements: Describe what the system should do.
+  Examples: User authentication, property search, booking system, and user registration.
     
-  Non-Functional Requirements: System qualities are those that guide the design of the solution and often serve as constraints across the relevant backlogs.
-  Document performance, security, scalability, usability, and reliability requirements.
-    E.g., "when the submit button is pressed, the confirmation screen must load within seconds"
+  Non-Functional Requirements: Describe how the system should perform.
+  Examples: Performance, security, scalability, usability, reliability.
+
+
+# Used Case Diagrams
+  What are Use Case Diagrams?
+  Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+  Benefits of Use Case Diagrams:
+  Provide a clear visual representation of system functionalities.
+  Help in identifying and organizing system requirements.
+  Facilitate communication among stakeholders and the development team.
