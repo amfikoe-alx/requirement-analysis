@@ -41,3 +41,6 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
   Provide a clear visual representation of system functionalities.
   Help in identifying and organizing system requirements.
   Facilitate communication among stakeholders and the development team.
+
+
+# Acceptance Criteria
