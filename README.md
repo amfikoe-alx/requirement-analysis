@@ -13,3 +13,15 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
   Basis for Design and Development: Provides a solid foundation for designing and developing the system.
   Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
   Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+
+
+# Key Activities in Requirement Analysis
+
+  Requirement Gathering 
+    Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+    Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
+    Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
+    Observation: Observing end-users in their working environment to understand their needs.
+    Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
+
+  
